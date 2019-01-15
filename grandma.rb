@@ -5,7 +5,7 @@ def speak_to_grandma(phrase)
 
   elsif phrase == phrase.downcase
     return 'HUH?! SPEAK UP, SONNY!'
-
+end
 
 # Whatever you say to grandma, she should respond with
 #
@@ -18,4 +18,3 @@ def speak_to_grandma(phrase)
 
 # However if you say , she should respond with
 #
-end
